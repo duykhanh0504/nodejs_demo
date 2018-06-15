@@ -1,0 +1,10 @@
+type_push,vi,en,ja
+1,Bạn có lời mời từ ,You have a request from , から友だちリクエストを受け取りました。
+2,  đã từ chối lời mời, canceled your request, があなたのリクエストをキャンセルしました。
+3, đã chấp nhận lời mời, accepted your request, があなたのリクエストを承認しました。
+4,Bạn có tin nhắn mới từ ,You have new message from , からメッセージを受け取りました。
+5, đã vào phòng, joins room, がグループに参加しました。
+6, đã rời nhóm , left the room , がグループから退出しました。
+7, đã thích bài viết của bạn., liked your post., があなたの投稿にライクしてます。
+8, đã bình luận bài viết của bạn., commented on your post., があなたの投稿にコメントしました。
+9, đã thêm bạn vào nhóm , added you to group , はあなたをグループに追加しました 
